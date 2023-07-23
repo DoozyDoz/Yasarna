@@ -26,7 +26,7 @@ Before building and running the app, make sure you have the following tools inst
 
 1. Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/Yasarna-Quran-Reader.git
+git clone https://github.com/DoozyDoz/Yasarna.git
 
 
 2. Open Android Studio and select "Open an existing Android Studio project."
@@ -41,7 +41,7 @@ We welcome contributions to the Yasarna Quran Reader app! If you'd like to contr
 
 1. Fork this repository to your GitHub account.
 
-2. Create a new branch from the `master` branch for your changes.
+2. Create a new branch from the `main` branch for your changes.
 
 3. Make your desired changes, following the project's coding guidelines.
 
