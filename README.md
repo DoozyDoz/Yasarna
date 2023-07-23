@@ -1,39 +1,62 @@
-# Yasarna Qur'an Pronunciation App
+# Yasarna Quran Reader App
 
-The Yasarna Qur'an Pronunciation App is a community-driven project aimed at providing a convenient and interactive way to learn the pronunciation of the Qur'an. This project is open-source, so anyone is welcome to contribute to its development.
+The Yasarna Quran Reader app is an open-source Android application that aims to help users learn how to read the Quran using the book "Yasarna." The app provides a user-friendly interface that allows users to tap on words or sentences within the book's pages and hear the pronunciation of the selected content.
 
 ## Features
 
-- **Interactive Pronunciation Guide**: The app contains all 66 pages of the Yasarna book. Users can tap on a word or sentence to hear its pronunciation.
+- Tap-to-pronounce: Users can tap on any word or sentence in the pages of the "Yasarna" book, and the app will play the corresponding audio pronunciation.
 
-- **Community Contributions**: The app allows users to upload their own versions of pronunciations for approval. Once approved, these pronunciations become available for other users to choose from.
+- User-submitted audios: The app allows users to upload their versions of audio pronunciations. Once uploaded, the submissions will be reviewed and approved by the app's maintainers.
 
-- **Rating System**: Users can rate the available pronunciations. This allows the community to highlight the most helpful and accurate pronunciations.
+- Community-driven audio selection: Approved user-submitted audios will become available as choices for users to select from in the app. This way, the app's audio library will grow with valuable contributions from the community.
 
-## How to Contribute
+- Rating system: Users can rate the audios they listen to, helping others identify the most accurate and high-quality pronunciations.
 
-Contributions are welcome and greatly appreciated! You can contribute in several ways:
+- Page navigation: The app will display all 66 pages of the "Yasarna" book, allowing users to navigate through the content easily.
 
-1. **Code**: If you're a developer, feel free to work on any open issues or create a pull request with your proposed changes.
+## Getting Started
 
-2. **Audio**: If you're proficient in Qur'an recitation, you can help by uploading your own pronunciation versions. Please remember to follow the app's guidelines for audio submissions.
+### Prerequisites
 
-3. **Ratings**: By rating the existing audio files, you can help the community identify the best pronunciations.
+Before building and running the app, make sure you have the following tools installed on your development environment:
 
-## Developer Setup
+- Android Studio [Download here](https://developer.android.com/studio)
 
-Detailed instructions on how to get the app running in your local development environment will be added soon.
+### Installation
+
+1. Clone this repository to your local machine using the following command:
+
+git clone https://github.com/your-username/Yasarna-Quran-Reader.git
+
+
+2. Open Android Studio and select "Open an existing Android Studio project."
+
+3. Navigate to the cloned repository and select the project folder.
+
+4. Build the project in Android Studio and run it on an Android emulator or a physical device.
+
+### Contributing
+
+We welcome contributions to the Yasarna Quran Reader app! If you'd like to contribute, follow these steps:
+
+1. Fork this repository to your GitHub account.
+
+2. Create a new branch from the `master` branch for your changes.
+
+3. Make your desired changes, following the project's coding guidelines.
+
+4. Submit a pull request, explaining the changes you've made and the reason for them.
+
+5. Your pull request will be reviewed by the project maintainers, and if approved, it will be merged into the main repository.
+
+### License
+
+This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [Your Email](mailto:youremail@example.com).
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainers via email at [contact@yasarnaquranreader.com](mailto:contact@yasarnaquranreader.com) or open an issue in the GitHub repository.
 
-## License
+We hope this app helps users in their journey to learn how to read the Quran with the help of the "Yasarna" book. Happy learning and contributing!
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Your support is greatly appreciated. Together, we can make learning Qur'an pronunciation more accessible and enjoyable for everyone!
-
----
